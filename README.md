@@ -1,7 +1,8 @@
-Hi there! I'm Yoel Abraham Uktolseja 👋
+# Hi there! I'm Yoel Abraham Uktolseja 👋
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=E2E8F0&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Specializing+in+Intelligent+Systems;Interested+in+Machine+Learning+%26+AI;Let's+build+something+cool!" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/yoel-abraham-uktolseja-13274b326/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -10,16 +11,23 @@ Hi there! I'm Yoel Abraham Uktolseja 👋
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 ---
-🌌 About Me
-I am a passionate Computer Science Student specializing in Intelligent Systems. I focus on designing intelligent systems, analyzing data, and building applications powered by AI.
-🎓 Currently studying Computer Science (specializing in Intelligent Systems)
-🤖 Interested in AI Engineering, particularly Machine Learning and Artificial Intelligence as a whole
-🛠️ Actively building projects combining Machine Learning algorithms with modern Web Technologies
-💬 Ask me about Machine Learning, AI, or Web Development
+
+### 🌌 About Me
+
+I am a passionate **Computer Science Student** specializing in **Intelligent Systems**. I focus on designing intelligent systems, analyzing data, and building applications powered by AI.
+
+- 🎓 Currently studying **Computer Science** (specializing in **Intelligent Systems**)
+- 🤖 Interested in **AI Engineering**, particularly **Machine Learning** and **Artificial Intelligence as a whole**
+- 🛠️ Actively building projects combining Machine Learning algorithms with modern Web Technologies
+- 💬 Ask me about **Machine Learning**, **AI**, or **Web Development**
+
 ---
-💻 Tech Stack & Tools
-🧠 Artificial Intelligence, Machine Learning & Data Science
+
+### 💻 Tech Stack & Tools
+
+#### 🧠 Artificial Intelligence, Machine Learning & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/NLTK-2E4057?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="NLTK" />
@@ -29,7 +37,8 @@ I am a passionate Computer Science Student specializing in Intelligent Systems. 
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 </p>
-💻 Programming Languages
+
+#### 💻 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -40,7 +49,8 @@ I am a passionate Computer Science Student specializing in Intelligent Systems. 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
-🌐 Web Development, Frameworks & Databases
+
+#### 🌐 Web Development, Frameworks & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
@@ -49,13 +59,17 @@ I am a passionate Computer Science Student specializing in Intelligent Systems. 
   <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Atlas" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
-🎨 Design Tools
+
+#### 🎨 Design Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
 </p>
+
 ---
-📊 GitHub Stats
+
+### 📊 GitHub Stats
+
 <div align="center">
   <table border="0">
     <tr>
