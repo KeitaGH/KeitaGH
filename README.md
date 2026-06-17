@@ -10,6 +10,9 @@
   <a href="https://github.com/KeitaGH" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://yoel-abraham.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 ---
@@ -21,6 +24,7 @@ I am a passionate **Computer Science Student** specializing in **Intelligent Sys
 - 🎓 Currently studying **Computer Science** (specializing in **Intelligent Systems**)
 - 🤖 Interested in **AI Engineering**, particularly **Machine Learning** and **Artificial Intelligence as a whole**
 - 🛠️ Actively building projects combining Machine Learning algorithms with modern Web Technologies
+- 🔗 Visit my live portfolio website at [yoel-abraham.vercel.app](https://yoel-abraham.vercel.app/)
 - 💬 Ask me about **Machine Learning**, **AI**, or **Web Development**
 
 ---
